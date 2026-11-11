@@ -1,0 +1,37 @@
+{
+  "n_zero": {
+    "Glucose": 5,
+    "BloodPressure": 35,
+    "Insulin": 373,
+    "BMI": 11
+  },
+  "n_complete": 392,
+  "wins_vs_A_gridsearch": {
+    "B. Hapus baris (listwise deletion)": {
+      "lebih_baik": 5,
+      "sama": 0,
+      "lebih_buruk": 5
+    },
+    "C. Imputasi Mean": {
+      "lebih_baik": 5,
+      "sama": 3,
+      "lebih_buruk": 2
+    },
+    "D. Imputasi Median": {
+      "lebih_baik": 7,
+      "sama": 0,
+      "lebih_buruk": 3
+    },
+    "E. Imputasi KNN (k=5)": {
+      "lebih_baik": 6,
+      "sama": 2,
+      "lebih_buruk": 2
+    },
+    "F. Imputasi MICE (Iterative)": {
+      "lebih_baik": 6,
+      "sama": 2,
+      "lebih_buruk": 2
+    }
+  },
+  "n_splits": 10
+}
