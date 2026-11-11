@@ -35,7 +35,7 @@ Tugas kelompok mata kuliah **Pengantar Kecerdasan Buatan**. Repo ini membandingk
 
 ![Akurasi per skenario](results/fig_accuracy.png)
 
-Laporan lengkap (kajian pustaka, metodologi, pembahasan, dan keterbatasan) ada di folder [`reports/`](laporan/).
+Laporan lengkap (kajian pustaka, metodologi, pembahasan, dan keterbatasan) ada di folder [`reports/`](reports/).
 
 ## Struktur repo
 
